@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steffen Moritz | Data Science Decaf</title>
+    <link>/author/steffen-moritz/</link>
+      <atom:link href="/author/steffen-moritz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steffen Moritz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Steffen Moritz</copyright>
+    <image>
+      <url>/author/steffen-moritz/avatar_hue283ac9a54e2c613f2ae354bd5a5b292_2148320_270x270_fill_lanczos_center_2.png</url>
+      <title>Steffen Moritz</title>
+      <link>/author/steffen-moritz/</link>
+    </image>
+    
+  </channel>
+</rss>

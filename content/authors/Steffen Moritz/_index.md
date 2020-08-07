@@ -5,16 +5,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Student in Computer Science
+    institution: Technische Universität Dortmund, Germany
+    year: currently
+  - course: MSc in Business Informatics
+    institution: Technische Hochschule Mittelhessen, Germany
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc in Business Informatics
+    institution: Technische Hochschule Mittelhessen, Germany
+    year: 2010
+email: "steffen.moritz10@gmail.com"
 interests:
 - Artificial Intelligence 2
 - Computational Linguistics

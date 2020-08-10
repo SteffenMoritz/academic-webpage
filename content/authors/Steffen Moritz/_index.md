@@ -66,8 +66,8 @@ user_groups:
 
 I am working as a researcher at the Institute for Data Science, Engineering, and Analytics[(IDE+A)](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/institut-fuer-data-science-engineering-and-analytics_54523.php) at TH Köln in Germany.
 
-**TEST TEST TEST. This site is work in progress!**
-**You are now entering the construction site:**
+**TEST TEST TEST!. This site is work in progress!**
+**You are now entering the construction site:** 
 
 My main research work focuses on missing data methods and imputation especially for time series. , machine learning and artificial intelligence. 
 also interested in data compression. time series, sensor data

@@ -17,4 +17,12 @@ image:
 projects: []
 ---
 
-Welcome to my new webpage.
+Welcome to my new webpage. 
+
+If you are interestend in how the website was created:
+I used an R package called blogdown - which uses hugo (https://gohugo.io/). All development and changes were made in the RStudio IDE. I used the academic theme for hugo. 
+
+The website itself can also be found on my GitHub Repo. I can only recommend using this approach, since a website update is basically just a git commit. Hosting is free (it is on GitHub). Of course this only works for static websites.
+
+I got inspired to build this website by a workshop about 'building a website with blogdown in R'
+by Tatjana Kecojevic at European R Users Conference 2020 . Here is the material with a step to step guide: https://websiteinr.netlify.app/.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Packages | Data Science Decaf</title>
+    <link>/tag/r-packages/</link>
+      <atom:link href="/tag/r-packages/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Packages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Steffen Moritz 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>R Packages</title>
+      <link>/tag/r-packages/</link>
+    </image>
+    
+    <item>
+      <title>imputeTS</title>
+      <link>/project/1_imputets/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/1_imputets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ridge</title>
+      <link>/project/2_ridge/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/2_ridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imputeR</title>
+      <link>/project/3_imputer/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/3_imputer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EventDetectR</title>
+      <link>/project/4_eventdetectr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/4_eventdetectr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

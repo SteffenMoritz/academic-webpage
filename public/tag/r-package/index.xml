@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Package | Data Science Decaf</title>
+    <link>/tag/r-package/</link>
+      <atom:link href="/tag/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Package</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Steffen Moritz</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>R Package</title>
+      <link>/tag/r-package/</link>
+    </image>
+    
+    <item>
+      <title>imputeTS</title>
+      <link>/project/imputets/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/imputets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

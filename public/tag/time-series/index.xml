@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series | Data Science Decaf</title>
+    <link>/tag/time-series/</link>
+      <atom:link href="/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Steffen Moritz</copyright><lastBuildDate>Fri, 19 Jun 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>Time Series</title>
+      <link>/tag/time-series/</link>
+    </image>
+    
+    <item>
+      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
+      <link>/talk/erum2020/</link>
+      <pubDate>Fri, 19 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/erum2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

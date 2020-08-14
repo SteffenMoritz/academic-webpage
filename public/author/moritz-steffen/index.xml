@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moritz Steffen | Data Science Decaf</title>
+    <link>/author/moritz-steffen/</link>
+      <atom:link href="/author/moritz-steffen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moritz Steffen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Steffen Moritz 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>Moritz Steffen</title>
+      <link>/author/moritz-steffen/</link>
+    </image>
+    
+    <item>
+      <title>useR! 2020 - Visualization of missing data and imputations in time series</title>
+      <link>/talk/user2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/user2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
+      <link>/talk/erum2020/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/erum2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Data Science Decaf</title>
+    <link>/tag/projects/</link>
+      <atom:link href="/tag/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Steffen Moritz 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>/tag/projects/</link>
+    </image>
+    
+    <item>
+      <title>IMProvT</title>
+      <link>/project/5_improvt/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/5_improvt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

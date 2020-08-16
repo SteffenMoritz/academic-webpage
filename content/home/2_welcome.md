@@ -52,6 +52,6 @@ subtitle = ""
 
 Welcome to my personal website (www.data-science-decaf.com). The name comes from the motto:
 
-**"Data Science explained so easy that you don\'t need tons of coffee any more."**
+**"Data Science explained so easy that you don\'t need tons of coffee anymore."**
 
-I originally registered it for a blog project that went inactive due to the fact that a day just hasn't enough hours. (it is still somehow the motto for this page). But, if you now need coffee, because the blog is missing -  I am an enthusiastic home barista and speciality coffee lover ;)
+I originally registered it for a blog project that went inactive due to the fact that a day just hasn't enough hours. (it is still somehow the motto for this page). But, if you now need coffee, because the blog is missing -  I am an enthusiastic home barista and specialty coffee lover :coffee: :wink:.

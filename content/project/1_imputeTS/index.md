@@ -14,7 +14,7 @@ links:
 - name: Website
   url: http://steffenmoritz.github.io/imputeTS/
   
-summary: Popular R package package that specializes on (univariate) time series imputation. It offers several different imputation algorithm implementations. Beyond the imputation algorithms the package also provides plotting and printing functions of time series missing data statistics. 
+summary: Popular R package that specializes on (univariate) time series imputation. It offers several different imputation algorithm implementations. Beyond the imputation algorithms the package also provides plotting and printing functions of time series missing data statistics. 
 
 tags:
 - R Packages

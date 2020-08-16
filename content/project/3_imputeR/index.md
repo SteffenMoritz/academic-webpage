@@ -13,7 +13,7 @@ links:
   url: https://cran.r-project.org/web/packages/imputeR/index.html
   
   
-summary: R package that provides a general framework for missing values imputation based on automated variable selection. The imputation is based on expectation maximization (EM) combined with machine learning (ML) algorithms. Lingbing F. wrote the initial version for his PhD thesis. Meanwhile he is busy with different topics and I took over maintenance and tried to make some improvements to the package. Ideally, if time permits we plan to also provide more extensive updates for the package.
+summary: R package that provides a general framework for missing values imputation based on automated variable selection. The imputation is based on expectation maximization (EM) combined with machine learning (ML) algorithms. Lingbing F. wrote the initial version for his PhD thesis. Meanwhile, he is busy with different topics and I took over maintenance and tried to make some improvements to the package. Ideally, if time permits we plan to also provide more extensive updates for the package.
 
 tags:
 - R Packages

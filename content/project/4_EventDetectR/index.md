@@ -13,7 +13,7 @@ links:
   
 image:
   focal_point: Smart
-summary: R package for detecting/classifiying events in time-series data. It aims to combine multiple well-known R-packages like the forecast package to deliver an easily configurable tool for event detection. The package originates from research projects at TH Köln about anomaly detection in drinking water networks. I helped developing the package and still occasionally contribute code.
+summary: R package for detecting/classifying events in time-series data. It aims to combine multiple well-known R-packages like the forecast package to deliver an easily configurable tool for event detection. The package originates from research projects at TH Köln about anomaly detection in drinking water networks. I helped to develop the package and still occasionally contribute code.
 
 
 tags:

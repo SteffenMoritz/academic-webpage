@@ -66,8 +66,8 @@ user_groups:
 
 I am working as a researcher at the Institute for Data Science, Engineering, and Analytics[(IDE+A)](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/institut-fuer-data-science-engineering-and-analytics_54523.php) at TH Köln in Germany.
 
-One focus of my current research are **Missing Data Methods** and **Imputation for Sensor Time Series**. I am also interested in machine learning, time series methods, artificial intelligence, anomaly detection and data compression. Which I have been working on several years at R&D of Bosch and at TH Köln in industrial research projects. 
+My current research focuses on 'Missing Data Methods' and 'Imputation for Sensor Time Series'. I am also interested in machine learning, time series analysis, artificial intelligence, anomaly detection and data compression :rocket:. Which I have been working on in my years at R&D of Bosch and at TH Köln in industrial research projects. 
 
-As a big enthusiast of the statistical programmig language R, I maintain multiple R packages. Whenever possible I try to make research work available for others as a easy to use package to build on (see Software).
+As a big enthusiast of the statistical programming language R, I maintain multiple R packages. Whenever possible I try to make research work available for others as an easy-to-use package to build on (see [Software](/#5_projects)).
 
-When I am not occupied reading or working on intersting things on my computer, I enjoy a diverse mixture of sports (running, track and field athletics, bouldering, ...). Sometimes I also join local races and competitions.
+When I am not occupied reading or working on my computer :book:, I really enjoy doing sports. I like running, bouldering and track & field athletics. Just recently I finished my first triathlon. Sometimes I also join local races and competitions - mostly with the goal of reaching the finish line :smiley:.

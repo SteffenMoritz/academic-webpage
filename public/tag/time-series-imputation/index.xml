@@ -5,12 +5,20 @@
     <link>/tag/time-series-imputation/</link>
       <atom:link href="/tag/time-series-imputation/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series Imputation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Time Series Imputation</title>
       <link>/tag/time-series-imputation/</link>
     </image>
+    
+    <item>
+      <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>
+      <link>/talk/whyr2020/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/whyr2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>imputeTS Cheat Sheet</title>

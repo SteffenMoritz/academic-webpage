@@ -15,6 +15,10 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+tags:
+- Website
+- Blogdown
 ---
 
 Welcome to my new webpage. 

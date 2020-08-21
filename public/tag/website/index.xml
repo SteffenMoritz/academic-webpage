@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website | Data Science Decaf</title>
+    <link>/tag/website/</link>
+      <atom:link href="/tag/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>Website</title>
+      <link>/tag/website/</link>
+    </image>
+    
+    <item>
+      <title>First Post, new Website made with blogdown</title>
+      <link>/post/first-post-new-website-made-with-blogdown/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/first-post-new-website-made-with-blogdown/</guid>
+      <description>&lt;p&gt;Welcome to my new webpage.&lt;/p&gt;
+&lt;p&gt;If you are interestend in how the website was created:
+I used an R package called blogdown - which uses hugo (&lt;a href=&#34;https://gohugo.io/)&#34;&gt;https://gohugo.io/)&lt;/a&gt;. All development and changes were made in the RStudio IDE. I used the academic theme for hugo.&lt;/p&gt;
+&lt;p&gt;The website itself can also be found on my GitHub Repo. I can only recommend using this approach, since a website update is basically just a git commit. Hosting is free (it is on GitHub). Of course this only works for static websites.&lt;/p&gt;
+&lt;p&gt;I got inspired to build this website by a workshop about &amp;lsquo;building a website with blogdown in R&amp;rsquo;
+by Tatjana Kecojevic at European R Users Conference 2020 . Here is the material with a step to step guide: &lt;a href=&#34;https://websiteinr.netlify.app/&#34;&gt;https://websiteinr.netlify.app/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,21 +4,66 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/imputation/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/imputets/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/missing-data/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/moritz-steffen/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/preprocessing/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-bartz-beielstein/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/time-series-imputation/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/whyr2020/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,16 +98,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/time-series-imputation/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/time-series-imputation/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -73,7 +108,17 @@
   </url>
   
   <url>
+    <loc>/tag/blogdown/</loc>
+    <lastmod>2020-08-11T03:18:48+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/first-post-new-website-made-with-blogdown/</loc>
+    <lastmod>2020-08-11T03:18:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/website/</loc>
     <lastmod>2020-08-11T03:18:48+02:00</lastmod>
   </url>
   
@@ -98,32 +143,7 @@
   </url>
   
   <url>
-    <loc>/tag/imputation/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/missing-data/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/moritz-steffen/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/sebastian-gatscha/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-bartz-beielstein/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   

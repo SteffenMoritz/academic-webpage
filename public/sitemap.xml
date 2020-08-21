@@ -63,16 +63,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-08-21T03:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/test/</loc>
-    <lastmod>2020-08-21T03:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -84,6 +74,11 @@
   
   <url>
     <loc>/post/2020-08-17-cheat-sheet-imputets/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   

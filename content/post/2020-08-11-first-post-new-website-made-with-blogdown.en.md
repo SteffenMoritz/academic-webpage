@@ -1,7 +1,11 @@
 ---
 title: First Post, new Website made with blogdown
 author: Steffen Moritz
+
 date: '2020-08-11'
+publishDate: "2020-01-01T00:00:00Z"
+
+
 slug: first-post-new-website-made-with-blogdown
 categories: []
 tags: []

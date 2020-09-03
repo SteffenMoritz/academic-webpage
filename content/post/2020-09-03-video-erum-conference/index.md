@@ -15,7 +15,7 @@ tags:
 - Conferences
 
 
-date: "2020-09-17T00:00:02Z"
+date: "2020-09-01T00:00:02Z"
 publishDate: "2020-09-01T00:00:02Z"
 
 

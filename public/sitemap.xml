@@ -64,16 +64,56 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020-09-03-ridge-update/</loc>
-    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+    <loc>/tag/conferences/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/conferences/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-03-video-erum-conference/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/imputets/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rstats/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/rstats/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steffen-moritz/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/time-series-imputation/</loc>
+    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-03-ridge-update/</loc>
     <lastmod>2020-09-03T00:00:01+00:00</lastmod>
   </url>
   
@@ -105,46 +145,6 @@
   <url>
     <loc>/category/ridge-regression/</loc>
     <lastmod>2020-09-03T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rstats/</loc>
-    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/rstats/</loc>
-    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/steffen-moritz/</loc>
-    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/conferences/</loc>
-    <lastmod>2020-09-01T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/conferences/</loc>
-    <lastmod>2020-09-01T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-09-03-video-erum-conference/</loc>
-    <lastmod>2020-09-01T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/imputets/</loc>
-    <lastmod>2020-09-01T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/time-series-imputation/</loc>
-    <lastmod>2020-09-01T00:00:02+00:00</lastmod>
   </url>
   
   <url>

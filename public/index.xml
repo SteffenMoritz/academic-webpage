@@ -21,18 +21,9 @@
     </item>
     
     <item>
-      <title>New version of the ridge package on CRAN</title>
-      <link>/post/2020-09-03-ridge-update/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:01 +0000</pubDate>
-      <guid>/post/2020-09-03-ridge-update/</guid>
-      <description>&lt;p&gt;Yesterday I uploaded the new version of the ridge package on CRAN (a package for Ridge Regression with Automatic Selection of the Penalty Parameter). Albeit, this version does not contain too many visible additions. I mostly had to push this new version to adapt to new OS / CRAN requirements. Besides this the update includes some additions to the documentation/readme.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>European R Users Meeting 2020 (eRUM) video online</title>
       <link>/post/2020-09-03-video-erum-conference/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:02 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:02 +0000</pubDate>
       <guid>/post/2020-09-03-video-erum-conference/</guid>
       <description>&lt;p&gt;It has been 2 month since the eRUM 2020 happend virtually. Now the conference talks are finally all available online as youtube videos. (
 &lt;a href=&#34;https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eRUM 2020 Youtube Channel&lt;/a&gt;)&lt;/p&gt;
@@ -40,6 +31,15 @@
 &lt;p&gt;I don&amp;rsquo;t think I would have had nearly 300 viewers for my small lightning talk in the regular offline format.&lt;/p&gt;
 &lt;p&gt;Here you can have a look at my short talk &amp;lsquo;Time Series Missing Data Visualizations&amp;rsquo;:&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hFKwzJBXvIU?start=95&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New version of the ridge package on CRAN</title>
+      <link>/post/2020-09-03-ridge-update/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:01 +0000</pubDate>
+      <guid>/post/2020-09-03-ridge-update/</guid>
+      <description>&lt;p&gt;Yesterday I uploaded the new version of the ridge package on CRAN (a package for Ridge Regression with Automatic Selection of the Penalty Parameter). Albeit, this version does not contain too many visible additions. I mostly had to push this new version to adapt to new OS / CRAN requirements. Besides this the update includes some additions to the documentation/readme.&lt;/p&gt;
 </description>
     </item>
     

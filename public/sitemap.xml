@@ -64,41 +64,91 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/conferences/</loc>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/conferences/</loc>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-03-video-erum-conference/</loc>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/imputets/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-08-17-cheat-sheet-imputets/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/rstats/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/rstats/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/steffen-moritz/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/time-series-imputation/</loc>
+    <lastmod>2020-09-17T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-03-ridge-update/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-package/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r-package/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ridge/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/ridge/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ridge-regression/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/ridge-regression/</loc>
+    <lastmod>2020-09-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-08-17-cheat-sheet-imputets/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   

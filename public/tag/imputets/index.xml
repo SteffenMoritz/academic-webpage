@@ -21,6 +21,20 @@
     </item>
     
     <item>
+      <title>European R Users Meeting 2020 (eRUM) video online</title>
+      <link>/post/2020-09-03-video-erum-conference/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:02 +0000</pubDate>
+      <guid>/post/2020-09-03-video-erum-conference/</guid>
+      <description>&lt;p&gt;It has been 2 month since the eRUM 2020 happend virtually. Now the conference talks are finally all available online as youtube videos. (
+&lt;a href=&#34;https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eRUM 2020 Youtube Channel&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;A lot of really interesting talks to watch. It was a great conference (which was nearly cancled completely due to COVID-19). Huge props to the organizers, that basically organized two conferences - one in Italy, which was canceled and the virtual replacement two month later. I think the effort definitely payed off and it was quite a success!&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t think I would have had nearly 300 viewers for my small lightning talk in the regular offline format.&lt;/p&gt;
+&lt;p&gt;Here you can have a look at my short talk &amp;lsquo;Time Series Missing Data Visualizations&amp;rsquo;:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hFKwzJBXvIU?start=95&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>imputeTS Cheat Sheet</title>
       <link>/post/2020-08-17-cheat-sheet-imputets/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>

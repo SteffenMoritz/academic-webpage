@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R package | Data Science Decaf</title>
+    <link>/category/r-package/</link>
+      <atom:link href="/category/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <description>R package</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2020 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
+      <title>R package</title>
+      <link>/category/r-package/</link>
+    </image>
+    
+    <item>
+      <title>New version of the ridge package on CRAN</title>
+      <link>/post/2020-09-03-ridge-update/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:01 +0000</pubDate>
+      <guid>/post/2020-09-03-ridge-update/</guid>
+      <description>&lt;p&gt;Yesterday I uploaded the new version of the ridge package on CRAN (a package for Ridge Regression with Automatic Selection of the Penalty Parameter). Albeit, this version does not contain too many visible additions. I mostly had to push this new version to adapt to new OS / CRAN requirements. Besides this the update includes some additions to the documentation/readme.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

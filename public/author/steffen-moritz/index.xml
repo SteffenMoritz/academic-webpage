@@ -5,12 +5,41 @@
     <link>/author/steffen-moritz/</link>
       <atom:link href="/author/steffen-moritz/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen Moritz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2020 00:00:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 00:00:01 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Steffen Moritz</title>
       <link>/author/steffen-moritz/</link>
     </image>
+    
+    <item>
+      <title>New publication about anomaly detection for water quality data</title>
+      <link>/post/2020-09-16-paper-water/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:01 +0000</pubDate>
+      <guid>/post/2020-09-16-paper-water/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;A novel dynamic multi-criteria ensemble selection mechanism applied to drinking water quality anomaly detection&amp;rdquo; was recently accepted by the ELSEVIER Science of The Total Environment Journal.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0048969720358976&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;
+was a nice Brasil / German cooperation, working together with Victor Henrique Alves Ribeiro and Gilberto Reynoso-Meza from Pontifical Catholic University of Paraná. Victor actually did the lion&amp;rsquo;s share of the work including all the algortihmic parts. The paper uses the water quality data we collected in the IMPRovT project for the experiments (which we also used for the GECCO Industrial Challenges about Event Detection).&lt;/p&gt;
+&lt;p&gt;Highlights from the paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The solution for a real-world drinking water anomaly detection problem is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feature engineering and dynamic ensemble selection are explored to solve the task.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A novel multi-criteria dynamic ensemble selection algorithm is proposed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The new algorithm outperforms all other tested dynamic ensemble selection methods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Paper can be found here:
+&lt;a href=&#34;https://doi.org/10.1016/j.scitotenv.2020.142368&#34;&gt;https://doi.org/10.1016/j.scitotenv.2020.142368&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>European R Users Meeting 2020 (eRUM) video online</title>

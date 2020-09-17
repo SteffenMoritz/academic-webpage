@@ -64,7 +64,62 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/event-detection/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/event-detection/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-16-paper-water/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/paper/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/paper/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/publication/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/publication/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steffen-moritz/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/water-quality/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/water-quality/</loc>
+    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
   </url>
   
   <url>
@@ -88,22 +143,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/rstats/</loc>
     <lastmod>2020-09-03T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/rstats/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/steffen-moritz/</loc>
     <lastmod>2020-09-03T00:00:02+00:00</lastmod>
   </url>
   

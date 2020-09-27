@@ -5,12 +5,129 @@
     <link>/author/steffen-moritz/</link>
       <atom:link href="/author/steffen-moritz/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen Moritz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:02 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Steffen Moritz</title>
       <link>/author/steffen-moritz/</link>
     </image>
+    
+    <item>
+      <title>why R? Conference: Handling complex missing data problems in time series</title>
+      <link>/post/2020-09-27-whyr-conference/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:02 +0000</pubDate>
+      <guid>/post/2020-09-27-whyr-conference/</guid>
+      <description>&lt;p&gt;My talk about at why R? Conference 2020 about &amp;ldquo;Handling complex missing data problems in time series&amp;rdquo; has just finished. Luckily as it is with all these online conferences this year, the talk was streamed and is further available online for all who missed it.&lt;/p&gt;
+&lt;p&gt;Overall whyR has so far been a great conference with plenty of different and interesting talks. Unfortunately I missed the workshops on Friday, but Saturday has been very interesting and I hope Sunday will be as well. I especially liked, that everything was streamed via Youtube, makes it quite comfortable to follow. Quite impressed, how well these onle formats are handled by the organisers. (
+&lt;a href=&#34;https://2020.whyr.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why R? Conference website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Here is my talk:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MemzAC7HIsU?start=2853&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>New publication about anomaly detection for water quality data</title>
+      <link>/post/2020-09-16-paper-water/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:01 +0000</pubDate>
+      <guid>/post/2020-09-16-paper-water/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;A novel dynamic multi-criteria ensemble selection mechanism applied to drinking water quality anomaly detection&amp;rdquo; was recently accepted by the ELSEVIER Science of The Total Environment Journal.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0048969720358976&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;
+was a nice Brasil / German cooperation, working together with Victor Henrique Alves Ribeiro and Gilberto Reynoso-Meza from Pontifical Catholic University of Paraná. Victor actually did the lion&amp;rsquo;s share of the work including all the algortihmic parts. The paper uses the water quality data we collected in the IMPRovT project for the experiments (which we also used for the GECCO Industrial Challenges about Event Detection).&lt;/p&gt;
+&lt;p&gt;Highlights from the paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The solution for a real-world drinking water anomaly detection problem is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feature engineering and dynamic ensemble selection are explored to solve the task.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A novel multi-criteria dynamic ensemble selection algorithm is proposed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The new algorithm outperforms all other tested dynamic ensemble selection methods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Paper can be found here:
+&lt;a href=&#34;https://doi.org/10.1016/j.scitotenv.2020.142368&#34;&gt;https://doi.org/10.1016/j.scitotenv.2020.142368&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>European R Users Meeting 2020 (eRUM) video online</title>
+      <link>/post/2020-09-03-video-erum-conference/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:02 +0000</pubDate>
+      <guid>/post/2020-09-03-video-erum-conference/</guid>
+      <description>&lt;p&gt;It has been 2 month since the eRUM 2020 happend virtually. Now the conference talks are finally all available online as youtube videos. (
+&lt;a href=&#34;https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eRUM 2020 Youtube Channel&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;A lot of really interesting talks to watch. It was a great conference (which was nearly cancled completely due to COVID-19). Huge props to the organizers, that basically organized two conferences - one in Italy, which was canceled and the virtual replacement two month later. I think the effort definitely payed off and it was quite a success!&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t think I would have had nearly 300 viewers for my small lightning talk in the regular offline format.&lt;/p&gt;
+&lt;p&gt;Here you can have a look at my short talk &amp;lsquo;Time Series Missing Data Visualizations&amp;rsquo;:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hFKwzJBXvIU?start=95&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New version of the ridge package on CRAN</title>
+      <link>/post/2020-09-03-ridge-update/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:01 +0000</pubDate>
+      <guid>/post/2020-09-03-ridge-update/</guid>
+      <description>&lt;p&gt;Yesterday I uploaded the new version of the ridge package on CRAN (a package for Ridge Regression with Automatic Selection of the Penalty Parameter). Albeit, this version does not contain too many visible additions. I mostly had to push this new version to adapt to new OS / CRAN requirements. Besides this the update includes some additions to the documentation/readme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>imputeTS Cheat Sheet</title>
+      <link>/post/2020-08-17-cheat-sheet-imputets/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-17-cheat-sheet-imputets/</guid>
+      <description>&lt;p&gt;Maybe you already know the Cheat Sheets about R packages and R provided by RStudio and the community. Definitely worth a look:  &lt;a href=&#34;https://rstudio.com/resources/cheatsheets/&#34;&gt;https://rstudio.com/resources/cheatsheets/&lt;/a&gt; . There are many different cheats sheets provided for e.g. R Markdown, tidyverse, Rstudio, mlr and all kinds of R packages. They are a great resource to get an overview about the most common workflows and functions when working with a package.
+The good news is - there is now also a Cheat Sheet available for the imputeTS package
+(
+&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/imputeTS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;imputeTS Cheat Sheet&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>imputeTS v3.1 now on CRAN</title>
+      <link>/post/2020-08-16-imputts-v3/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-16-imputts-v3/</guid>
+      <description>&lt;p&gt;The newest version (3.1) of the imputeTS package is now on CRAN. It is a major update with all kinds of improvements and additions. Especially the plotting functions are updated and the new visualizations look great.
+(
+&lt;a href=&#34;https://cran.r-project.org/web/packages/imputeTS/vignettes/gallery_visualizations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;gallery&lt;/strong&gt; of missing data plots&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main (visible) new features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Plotting functions are all in ggplot now (way better looking, better adjustable)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plotting functions got new names (ggplot_na_distribution, ggplot_na_intervals, ggplot_na_gapsize, ggplot_na_imputations)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Speedup for ggplot_na_gapsize calculation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added harmonic and geometric mean as option for na_mean&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed bug in na_replace -for NA only vectors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved na.random input check (usable with all NA input now if upper and lower bound paramters are exlicitly set to numeric values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added additional missing data stats to statsNA function (Number of Gaps, Average Gap Size)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added the imputeTS Cheat Sheet as Vignette&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added new vignette &amp;lsquo;Gallery Missing Data Visualizations&amp;rsquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

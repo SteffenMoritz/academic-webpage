@@ -9,3 +9,9 @@
   HUGO_VERSION = "0.74.3" # if older, use format: 0.69.2 (no trailing zero)
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.74.3"
+  
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["publishDate","lastmod", "date" ]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]

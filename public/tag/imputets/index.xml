@@ -5,7 +5,7 @@
     <link>/tag/imputets/</link>
       <atom:link href="/tag/imputets/index.xml" rel="self" type="application/rss+xml" />
     <description>imputeTS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2020 00:00:05 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>imputeTS</title>
@@ -15,21 +15,13 @@
     <item>
       <title>why R? Conference: Handling complex missing data problems in time series</title>
       <link>/post/2020-09-27-whyr-conference/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:02 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2020 00:00:05 +0000</pubDate>
       <guid>/post/2020-09-27-whyr-conference/</guid>
       <description>&lt;p&gt;My talk about at why R? Conference 2020 about &amp;ldquo;Handling complex missing data problems in time series&amp;rdquo; has just finished. Luckily as it is with all these online conferences this year, the talk was streamed and is further available online for all who missed it.&lt;/p&gt;
 &lt;p&gt;Overall whyR has so far been a great conference with plenty of different and interesting talks. Unfortunately I missed the workshops on Friday, but Saturday has been very interesting and I hope Sunday will be as well. I especially liked, that everything was streamed via Youtube, makes it quite comfortable to follow. Quite impressed, how well these onle formats are handled by the organisers. (
 &lt;a href=&#34;https://2020.whyr.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why R? Conference website&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Here is my talk:&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MemzAC7HIsU?start=2853&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>
-      <link>/talk/whyr2020/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/whyr2020/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -47,9 +39,17 @@
     </item>
     
     <item>
+      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
+      <link>/talk/erum2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/erum2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>imputeTS Cheat Sheet</title>
       <link>/post/2020-08-17-cheat-sheet-imputets/</link>
-      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020-08-17-cheat-sheet-imputets/</guid>
       <description>&lt;p&gt;Maybe you already know the Cheat Sheets about R packages and R provided by RStudio and the community. Definitely worth a look:  &lt;a href=&#34;https://rstudio.com/resources/cheatsheets/&#34;&gt;https://rstudio.com/resources/cheatsheets/&lt;/a&gt; . There are many different cheats sheets provided for e.g. R Markdown, tidyverse, Rstudio, mlr and all kinds of R packages. They are a great resource to get an overview about the most common workflows and functions when working with a package.
 The good news is - there is now also a Cheat Sheet available for the imputeTS package
@@ -61,7 +61,7 @@ The good news is - there is now also a Cheat Sheet available for the imputeTS pa
     <item>
       <title>imputeTS v3.1 now on CRAN</title>
       <link>/post/2020-08-16-imputts-v3/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020-08-16-imputts-v3/</guid>
       <description>&lt;p&gt;The newest version (3.1) of the imputeTS package is now on CRAN. It is a major update with all kinds of improvements and additions. Especially the plotting functions are updated and the new visualizations look great.
 (
@@ -102,16 +102,16 @@ The good news is - there is now also a Cheat Sheet available for the imputeTS pa
     <item>
       <title>useR! 2020 - Visualization of missing data and imputations in time series</title>
       <link>/talk/user2020/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/talk/user2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
-      <link>/talk/erum2020/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/erum2020/</guid>
+      <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>
+      <link>/talk/whyr2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/whyr2020/</guid>
       <description></description>
     </item>
     

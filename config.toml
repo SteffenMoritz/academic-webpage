@@ -44,6 +44,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
+  
+[frontmatter]
+date = ["publishDate","date", "lastmod"]
+lastmod = ["publishDate", ":git", "lastmod", "date"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]

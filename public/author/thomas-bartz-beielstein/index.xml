@@ -5,7 +5,7 @@
     <link>/author/thomas-bartz-beielstein/</link>
       <atom:link href="/author/thomas-bartz-beielstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Bartz-Beielstein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Thomas Bartz-Beielstein</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>
-      <link>/talk/whyr2020/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/whyr2020/</guid>
+      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
+      <link>/talk/erum2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/erum2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>useR! 2020 - Visualization of missing data and imputations in time series</title>
       <link>/talk/user2020/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/talk/user2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>eRum 2020 - Time Series Missing Data Visualizations</title>
-      <link>/talk/erum2020/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/erum2020/</guid>
+      <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>
+      <link>/talk/whyr2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/whyr2020/</guid>
       <description></description>
     </item>
     

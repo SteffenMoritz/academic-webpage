@@ -11,7 +11,7 @@
   HUGO_VERSION = "0.74.3"
   
 [frontmatter]
-date = ["date", "publishDate", "lastmod"]
+date = ["publishDate","date", "lastmod"]
 lastmod = ["publishDate","lastmod", "date" ]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]

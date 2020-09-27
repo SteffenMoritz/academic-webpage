@@ -5,12 +5,24 @@
     <link>/tag/time-series-imputation/</link>
       <atom:link href="/tag/time-series-imputation/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series Imputation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:02 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Time Series Imputation</title>
       <link>/tag/time-series-imputation/</link>
     </image>
+    
+    <item>
+      <title>why R? Conference: Handling complex missing data problems in time series</title>
+      <link>/post/2020-09-27-whyr-conference/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:02 +0000</pubDate>
+      <guid>/post/2020-09-27-whyr-conference/</guid>
+      <description>&lt;p&gt;My talk about at why R? Conference 2020 about &amp;ldquo;Handling complex missing data problems in time series&amp;rdquo; has just finished. Luckily as it is with all these online conferences this year, the talk was streamed and is further available online for all who missed it.&lt;/p&gt;
+&lt;p&gt;Overall whyR has so far been a great conference with plenty of different and interesting talks. Unfortunately I missed the workshops on Friday, but Saturday has been very interesting and I hope Sunday will be as well. I especially liked, that everything was streamed via Youtube, makes it quite comfortable to follow. Quite impressed, how well these onle formats are handled by the organisers. (
+&lt;a href=&#34;https://2020.whyr.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why R? Conference website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Here is my talk:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MemzAC7HIsU?start=2853&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Why R? 2020 Conference - Handling complex missing data problems in time series</title>

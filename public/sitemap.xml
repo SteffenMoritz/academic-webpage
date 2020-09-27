@@ -4,21 +4,81 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/conferences/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/conferences/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/imputation/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/imputets/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/imputets/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rstats/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/rstats/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steffen-moritz/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/time-series-imputation/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/time-series-imputation/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-09-27-whyr-conference/</loc>
+    <lastmod>2020-09-26T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/imputation/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,28 +103,13 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/thomas-bartz-beielstein/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/time-series-imputation/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/whyr2020/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
   </url>
   
   <url>
@@ -93,22 +138,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/publication/</loc>
     <lastmod>2020-09-16T00:00:01+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/publication/</loc>
-    <lastmod>2020-09-16T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/steffen-moritz/</loc>
     <lastmod>2020-09-16T00:00:01+00:00</lastmod>
   </url>
   
@@ -123,37 +158,7 @@
   </url>
   
   <url>
-    <loc>/tag/conferences/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/conferences/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2020-09-03-video-erum-conference/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/imputets/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rstats/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/rstats/</loc>
-    <lastmod>2020-09-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/time-series-imputation/</loc>
     <lastmod>2020-09-03T00:00:02+00:00</lastmod>
   </url>
   

@@ -26,7 +26,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://doi.org/10.5281/zenodo.4054594"
 url_video: "https://youtu.be/MemzAC7HIsU?t=2850"
 ---
 

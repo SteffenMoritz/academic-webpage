@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science Decaf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:05 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Data Science Decaf</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Wiesbaden R Coffee Break - imputeTS Umgang mit fehlenden Werten in Zeitreihen</title>
+      <link>/talk/wiesbadenuser2021/</link>
+      <pubDate>Wed, 17 Mar 2021 15:00:00 +0000</pubDate>
+      <guid>/talk/wiesbadenuser2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>why R? Conference: Handling complex missing data problems in time series</title>

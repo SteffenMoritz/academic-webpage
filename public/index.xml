@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science Decaf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu7f872f874b791a2c5d6a39a172132b75_288841_300x300_fit_lanczos_2.png</url>
       <title>Data Science Decaf</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Wiesbaden R Coffee Break - imputeTS Umgang mit fehlenden Werten in Zeitreihen</title>
       <link>/talk/wiesbadenuser2021/</link>
-      <pubDate>Mon, 01 Mar 2021 15:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Mar 2021 15:00:00 +0000</pubDate>
       <guid>/talk/wiesbadenuser2021/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>why R? Conference: Handling complex missing data problems in time series</title>
       <link>/post/2020-09-27-whyr-conference/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:05 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2020 00:00:02 +0000</pubDate>
       <guid>/post/2020-09-27-whyr-conference/</guid>
       <description>&lt;p&gt;My talk about at why R? Conference 2020 about &amp;ldquo;Handling complex missing data problems in time series&amp;rdquo; has just finished. Luckily as it is with all these online conferences this year, the talk was streamed and is further available online for all who missed it.&lt;/p&gt;
 &lt;p&gt;Overall whyR has so far been a great conference with plenty of different and interesting talks. Unfortunately I missed the workshops on Friday, but Saturday has been very interesting and I hope Sunday will be as well. I especially liked, that everything was streamed via Youtube, makes it quite comfortable to follow. Quite impressed, how well these onle formats are handled by the organisers. (
@@ -93,6 +93,73 @@ was a nice Brasil / German cooperation, working together with Victor Henrique Al
     </item>
     
     <item>
+      <title>imputeTS Cheat Sheet</title>
+      <link>/post/2020-08-17-cheat-sheet-imputets/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-17-cheat-sheet-imputets/</guid>
+      <description>&lt;p&gt;Maybe you already know the Cheat Sheets about R packages and R provided by RStudio and the community. Definitely worth a look:  &lt;a href=&#34;https://rstudio.com/resources/cheatsheets/&#34;&gt;https://rstudio.com/resources/cheatsheets/&lt;/a&gt; . There are many different cheats sheets provided for e.g. R Markdown, tidyverse, Rstudio, mlr and all kinds of R packages. They are a great resource to get an overview about the most common workflows and functions when working with a package.
+The good news is - there is now also a Cheat Sheet available for the imputeTS package
+(
+&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/imputeTS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;imputeTS Cheat Sheet&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>imputeTS v3.1 now on CRAN</title>
+      <link>/post/2020-08-16-imputts-v3/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-16-imputts-v3/</guid>
+      <description>&lt;p&gt;The newest version (3.1) of the imputeTS package is now on CRAN. It is a major update with all kinds of improvements and additions. Especially the plotting functions are updated and the new visualizations look great.
+(
+&lt;a href=&#34;https://cran.r-project.org/web/packages/imputeTS/vignettes/gallery_visualizations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;gallery&lt;/strong&gt; of missing data plots&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main (visible) new features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Plotting functions are all in ggplot now (way better looking, better adjustable)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plotting functions got new names (ggplot_na_distribution, ggplot_na_intervals, ggplot_na_gapsize, ggplot_na_imputations)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Speedup for ggplot_na_gapsize calculation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added harmonic and geometric mean as option for na_mean&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed bug in na_replace -for NA only vectors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved na.random input check (usable with all NA input now if upper and lower bound paramters are exlicitly set to numeric values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added additional missing data stats to statsNA function (Number of Gaps, Average Gap Size)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added the imputeTS Cheat Sheet as Vignette&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added new vignette &amp;lsquo;Gallery Missing Data Visualizations&amp;rsquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post, new Website made with blogdown</title>
+      <link>/post/first-post-new-website-made-with-blogdown/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/first-post-new-website-made-with-blogdown/</guid>
+      <description>&lt;p&gt;Welcome to my new webpage.&lt;/p&gt;
+&lt;p&gt;If you are interestend in how the website was created:
+I used an R package called blogdown - which uses hugo (&lt;a href=&#34;https://gohugo.io/)&#34;&gt;https://gohugo.io/)&lt;/a&gt;. All development and changes were made in the RStudio IDE. I used the academic theme for hugo.&lt;/p&gt;
+&lt;p&gt;The website itself can also be found on my GitHub Repo. I can only recommend using this approach, since a website update is basically just a git commit. Hosting is free (it is on GitHub). Of course this only works for static websites.&lt;/p&gt;
+&lt;p&gt;I got inspired to build this website by a workshop about &amp;lsquo;building a website with blogdown in R&amp;rsquo;
+by Tatjana Kecojevic at European R Users Conference 2020 . Here is the material with a step to step guide: &lt;a href=&#34;https://websiteinr.netlify.app/&#34;&gt;https://websiteinr.netlify.app/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>imputeTS</title>
       <link>/project/1_imputets/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -149,69 +216,17 @@ was a nice Brasil / German cooperation, working together with Victor Henrique Al
     </item>
     
     <item>
-      <title>First Post, new Website made with blogdown</title>
-      <link>/post/first-post-new-website-made-with-blogdown/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/first-post-new-website-made-with-blogdown/</guid>
-      <description>&lt;p&gt;Welcome to my new webpage.&lt;/p&gt;
-&lt;p&gt;If you are interestend in how the website was created:
-I used an R package called blogdown - which uses hugo (&lt;a href=&#34;https://gohugo.io/)&#34;&gt;https://gohugo.io/)&lt;/a&gt;. All development and changes were made in the RStudio IDE. I used the academic theme for hugo.&lt;/p&gt;
-&lt;p&gt;The website itself can also be found on my GitHub Repo. I can only recommend using this approach, since a website update is basically just a git commit. Hosting is free (it is on GitHub). Of course this only works for static websites.&lt;/p&gt;
-&lt;p&gt;I got inspired to build this website by a workshop about &amp;lsquo;building a website with blogdown in R&amp;rsquo;
-by Tatjana Kecojevic at European R Users Conference 2020 . Here is the material with a step to step guide: &lt;a href=&#34;https://websiteinr.netlify.app/&#34;&gt;https://websiteinr.netlify.app/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>imputeTS Cheat Sheet</title>
-      <link>/post/2020-08-17-cheat-sheet-imputets/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-cheat-sheet-imputets/</guid>
-      <description>&lt;p&gt;Maybe you already know the Cheat Sheets about R packages and R provided by RStudio and the community. Definitely worth a look:  &lt;a href=&#34;https://rstudio.com/resources/cheatsheets/&#34;&gt;https://rstudio.com/resources/cheatsheets/&lt;/a&gt; . There are many different cheats sheets provided for e.g. R Markdown, tidyverse, Rstudio, mlr and all kinds of R packages. They are a great resource to get an overview about the most common workflows and functions when working with a package.
-The good news is - there is now also a Cheat Sheet available for the imputeTS package
-(
-&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/imputeTS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;imputeTS Cheat Sheet&lt;/strong&gt;&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>imputeTS v3.1 now on CRAN</title>
-      <link>/post/2020-08-16-imputts-v3/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-16-imputts-v3/</guid>
-      <description>&lt;p&gt;The newest version (3.1) of the imputeTS package is now on CRAN. It is a major update with all kinds of improvements and additions. Especially the plotting functions are updated and the new visualizations look great.
-(
-&lt;a href=&#34;https://cran.r-project.org/web/packages/imputeTS/vignettes/gallery_visualizations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the &lt;strong&gt;gallery&lt;/strong&gt; of missing data plots&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Main (visible) new features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Plotting functions are all in ggplot now (way better looking, better adjustable)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Plotting functions got new names (ggplot_na_distribution, ggplot_na_intervals, ggplot_na_gapsize, ggplot_na_imputations)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Speedup for ggplot_na_gapsize calculation&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Added harmonic and geometric mean as option for na_mean&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Removed bug in na_replace -for NA only vectors&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Improved na.random input check (usable with all NA input now if upper and lower bound paramters are exlicitly set to numeric values)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Added additional missing data stats to statsNA function (Number of Gaps, Average Gap Size)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Added the imputeTS Cheat Sheet as Vignette&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Added new vignette &amp;lsquo;Gallery Missing Data Visualizations&amp;rsquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -350,29 +365,9 @@ Three
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An example journal article</title>
       <link>/publication/journal-article/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -390,11 +385,16 @@ Three
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
